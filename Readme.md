@@ -2,12 +2,12 @@
 # Valaxy Technologies Courses
 
 
-### Thanks for showing interest to enroll our course. 
+### Thanks for showing interest to enroll our courses. 
 
-At this moment *``Valaxy Technologies is not conducting any online classes``*. We are more focused on Self faced videos and workshops. 
+At this moment *``Valaxy Technologies is not conducting any Live interactive trainings``*. We are more focused on Self faced videos and workshops. 
 
-All details are getting updated in this page. so do checkout here for updated 
-If you want to get instance notification then follow us on 
+We update all our course details in this page. So do checkout here for latest info.  
+If you want to get instant notification about our updates, then follow us on   
 
 [Facebook](https://www.facebook.com/ValaxyTechnologies/)   
 [LinkedIn](https://www.linkedin.com/in/valaxytechnologies/)  
@@ -22,9 +22,9 @@ If you want to get instance notification then follow us on
 
    [DevOps Complete Course](https://valaxy.thinkific.com/courses/devops-complete-course)
 
-1. You have already completed course but not sure how a DevOps project works then check out these courses. 
+1. You have already completed DevOps course but not sure how a project works? then check out these courses. 
 
-   [DevOps Project using git, Jenkins, Ansible, Docker and Kubernetes](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+   [DevOps Project using Git, Jenkins, Ansible, Docker and Kubernetes](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F) 
 
    [DevOps Project using Git, Bitbucket, Maven, Jenkins, Sonarqube, Jfrog Artifactory, Ansible, Docker, Kubernetes](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
 
@@ -38,11 +38,11 @@ If you want to get instance notification then follow us on
 
 ### Amazon Web Servers (AWS)
 
-1. New to AWS? try this course to learn from very basics  
+1. New to AWS? try our AWS beginners course to learn from very basics  
 
    [AWS Solutions Architect & SysOps Administrator](https://www.udemy.com/course/awstutorial/?referralCode=CB2918B27C4DF19D1E38)
 
-1. Want to become expert on AWS Cloud Development Kit?   
+1. Want to become an expert on AWS Cloud Development Kit?   
 
    [AWS Cloud Development Kit](https://www.udemy.com/course/aws-cloud-development-kit-from-beginner-to-professional/?referralCode=E15D7FB64E417C547579)
 
