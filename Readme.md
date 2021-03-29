@@ -16,8 +16,8 @@ If you want to get instant notification about our updates, then follow us on
 
 
 # Courses available to Enroll  
- ## COUPON CODE: NEWYEARGOAL 
- ## Valid : 
+ ## COUPON CODE: HAPPYHOLI 
+ ## Valid : 05-April-2021
 ### DevOps 
 1. Are you new to DevOps? better go with complete DevOps course. its only available only on our own platform. 
 
