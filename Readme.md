@@ -35,8 +35,10 @@ If you want to get instant notification about our updates, then follow us on
 
 1. Are you a system administrator and want to automate your day to day activates? 
    Why don't you learn Ansible?   
-
    [Ansible for System Admins and DevOps Engineers](https://www.udemy.com/course/valaxy-ansible/?referralCode=9F36DC2010AEB6D64263) 
+   
+1. Not sure how to use Maven at DevOps Engineer level?  
+   [Maven for DevOps Engineers](https://www.udemy.com/course/valaxy-maven/?referralCode=4B996A5DFBE81305D9AB)
 
 ### Amazon Web Servers (AWS)
 
