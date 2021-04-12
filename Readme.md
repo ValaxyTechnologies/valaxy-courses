@@ -4,7 +4,7 @@
 
 ### Thanks for showing interest to enroll our courses. 
 
-At this moment *``Valaxy Technologies is not conducting any Live interactive trainings``*. We are more focused on Self faced videos and workshops. 
+At this moment *``Valaxy Technologies is conducting DevOps Live interactive trainings``*. Interested peoples can learn We are more focused on Self faced videos and workshops. 
 
 We update all our course details in this page. So do checkout here for latest info.  
 If you want to get instant notification about our updates, then follow us on   
