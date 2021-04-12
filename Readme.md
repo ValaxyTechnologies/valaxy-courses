@@ -4,7 +4,8 @@
 
 ### Thanks for showing interest to enroll our courses. 
 
-At this moment *``Valaxy Technologies is conducting DevOps Live interactive trainings``*. Interested peoples can learn We are more focused on Self faced videos and workshops. 
+At this moment *``Valaxy Technologies is conducting DevOps Live interactive trainings``*. Interested peoples can learn using below link. 
+We are also focused on self-paced videos for the people who are unable to attend interactive trainings. 
 
 We update all our course details in this page. So do checkout here for latest info.  
 If you want to get instant notification about our updates, then follow us on   
@@ -32,7 +33,7 @@ If you want to get instant notification about our updates, then follow us on
 1. Just want to understand how Git works in the DevOps Engineer prospective?  
    [Git for DevOps Engineers](https://www.udemy.com/course/devops-project-jenkins-cicd-for-kubernetes-deployments/?referralCode=EADD1BF129B9DB8B9947)
 
-1. Are you a system administrator and want to automate your day to day activites? 
+1. Are you a system administrator and want to automate your day to day activates? 
    Why don't you learn Ansible?   
 
    [Ansible for System Admins and DevOps Engineers](https://www.udemy.com/course/valaxy-ansible/?referralCode=9F36DC2010AEB6D64263) 
